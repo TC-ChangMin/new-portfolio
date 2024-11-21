@@ -14,10 +14,10 @@ body {
     font-size: 16px;
     font-weight: 900;
     font-family: "DotGothic16", sans-serif;
-    cursor: url('/images/cursor.png') 8 8, default;
+    cursor: url('../images/cursor.png') 8 8, default;
 }
 a, button {
-    cursor: url('/images/flipped-cursor.png'), pointer;
+    cursor: url('../images/flipped-cursor.png'), pointer;
 }
 
 /* navbar */
